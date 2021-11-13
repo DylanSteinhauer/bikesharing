@@ -6,3 +6,12 @@ The purpose of this challenge was to create visualizations in Tableau to present
 These visualizations show the length of time that bikes are checked out for all riders and genders,
 the number of bike trips for all riders and genders for each hour of each day of the week, and 
 the number of bike trips for each type of user and gender for each day of the week.
+## Results
+![Checkout_Times_for_Users](https://user-images.githubusercontent.com/87148177/141660072-9c831888-2b12-4ddd-9c3c-041af305fd24.png)\
+![Checkout_Times_by_Gender](https://user-images.githubusercontent.com/87148177/141660076-dc2490e8-2594-417d-94ec-ebd4f654c810.png)\
+![Trips_by_Weekday_for_Each_Hour](https://user-images.githubusercontent.com/87148177/141660092-4426e94e-c658-44da-8773-28ff4cddb1ef.png)\
+![Trips_by_Gender(Weekday per Hour)](https://user-images.githubusercontent.com/87148177/141660095-e8bfa944-1223-44f2-b21f-a742a1f41637.png)\
+![User_Trips_by_Gender_by_Weekday](https://user-images.githubusercontent.com/87148177/141660100-f12e04ac-b502-4f52-9bf4-b26d80e3e676.png)\
+![Gender_Breakdown](https://user-images.githubusercontent.com/87148177/141660104-cefaeaec-c733-4d61-a5a1-797813b480e2.png)\
+![Top_Ending_Locations](https://user-images.githubusercontent.com/87148177/141660106-bffb8cf9-4560-4bf9-9c57-8ba1903b2f04.png)\
+## Summary
