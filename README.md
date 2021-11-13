@@ -8,10 +8,10 @@ the number of bike trips for all riders and genders for each hour of each day of
 the number of bike trips for each type of user and gender for each day of the week.
 ## Results
 ![Checkout_Times_for_Users](https://user-images.githubusercontent.com/87148177/141660072-9c831888-2b12-4ddd-9c3c-041af305fd24.png)\
-![Checkout_Times_by_Gender](https://user-images.githubusercontent.com/87148177/141660076-dc2490e8-2594-417d-94ec-ebd4f654c810.png)\
-![Trips_by_Weekday_for_Each_Hour](https://user-images.githubusercontent.com/87148177/141660092-4426e94e-c658-44da-8773-28ff4cddb1ef.png)\
-![Trips_by_Gender(Weekday per Hour)](https://user-images.githubusercontent.com/87148177/141660095-e8bfa944-1223-44f2-b21f-a742a1f41637.png)\
-![User_Trips_by_Gender_by_Weekday](https://user-images.githubusercontent.com/87148177/141660100-f12e04ac-b502-4f52-9bf4-b26d80e3e676.png)\
-![Gender_Breakdown](https://user-images.githubusercontent.com/87148177/141660383-c459a10d-876a-49c6-a8dc-0536e62d8291.png)\
-![Top_Ending_Locations](https://user-images.githubusercontent.com/87148177/141660387-979ac53f-6edd-4572-ad8c-b0b98d80f3ba.png)
+![Checkout_Times_by_Gender](https://user-images.githubusercontent.com/87148177/141660802-4520aef9-936a-4725-8b8b-a6abe6b7bc9e.png)\
+![Trips_by_Weekday_for_Each_Hour](https://user-images.githubusercontent.com/87148177/141660808-4c67ecf7-d334-4b38-8835-d51a93f3c52e.png)\
+![Trips_by_Gender(WeekdayPerHour)](https://user-images.githubusercontent.com/87148177/141660809-ddfa4f30-2bb3-43c9-92cc-f4d539be3b20.png)\
+![User_Trips_by_Gender_by_Weekday](https://user-images.githubusercontent.com/87148177/141660812-e5d973d7-929c-4c92-8c84-c1315394e11a.png)\
+![Gender_Breakdown](https://user-images.githubusercontent.com/87148177/141660814-8fef4eef-32f5-4ac2-beed-6fd3f48f1be5.png)\
+![Top_Ending_Locations](https://user-images.githubusercontent.com/87148177/141660818-d9663d56-9269-4c6d-84ae-e0b948b16367.png)
 ## Summary
