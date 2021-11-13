@@ -12,6 +12,6 @@ the number of bike trips for each type of user and gender for each day of the we
 ![Trips_by_Weekday_for_Each_Hour](https://user-images.githubusercontent.com/87148177/141660092-4426e94e-c658-44da-8773-28ff4cddb1ef.png)\
 ![Trips_by_Gender(Weekday per Hour)](https://user-images.githubusercontent.com/87148177/141660095-e8bfa944-1223-44f2-b21f-a742a1f41637.png)\
 ![User_Trips_by_Gender_by_Weekday](https://user-images.githubusercontent.com/87148177/141660100-f12e04ac-b502-4f52-9bf4-b26d80e3e676.png)\
-![Gender_Breakdown](https://user-images.githubusercontent.com/87148177/141660104-cefaeaec-c733-4d61-a5a1-797813b480e2.png)\
-![Top_Ending_Locations](https://user-images.githubusercontent.com/87148177/141660106-bffb8cf9-4560-4bf9-9c57-8ba1903b2f04.png)\
+![Gender_Breakdown](https://user-images.githubusercontent.com/87148177/141660383-c459a10d-876a-49c6-a8dc-0536e62d8291.png)\
+![Top_Ending_Locations](https://user-images.githubusercontent.com/87148177/141660387-979ac53f-6edd-4572-ad8c-b0b98d80f3ba.png)
 ## Summary
